@@ -23,8 +23,6 @@ Este projeto é uma página web simples que contém um formulário de cadastro. 
 
 Para executar o site basta clonar o projeto e abrir o arquivo index.html.
 
-## Contato
+## Autor
 
-Email: saviasilvaa@gmail.com
-
-WhatsApp: (93) 99120-4052
+Sávia Almeida da Silva
