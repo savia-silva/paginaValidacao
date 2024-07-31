@@ -19,6 +19,10 @@ Este projeto é uma página web simples que contém um formulário de cadastro. 
 - **CSS:** Estilização e layout da página. 
 - **JavaScript:** Adiciona funcionalidade ao formulário, incluindo a validação e exibição de mensagens.
 
+## Como rodar o site
+
+Para executar o site basta clonar o projeto e abrir o arquivo index.html.
+
 ## Contato
 
 Email: saviasilvaa@gmail.com
