@@ -21,7 +21,17 @@ Este projeto é uma página web simples que contém um formulário de cadastro. 
 
 ## Como rodar o site
 
-Para executar o site basta clonar o projeto e abrir o arquivo index.html.
+- Clone o projeto
+
+  ```git clone https://github.com/savia-silva/paginaValidacao.git```
+
+- Abrir a pasta paginaValidacao
+
+  ```cd paginaValidacao```
+
+ - Para executar a pagina bastae abrir o arquivo index.html.
+
+  ```xdg-open index.html```
 
 ## Autor
 
